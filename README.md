@@ -1,2 +1,14 @@
 # leyu-pitch-notes
-HTML page archive and documentation
+
+页面内容归档仓库
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
